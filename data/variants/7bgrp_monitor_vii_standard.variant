@@ -1,0 +1,16 @@
+{
+    "displayName": "Seventh Standard",
+    "fluxCapacitors": 4,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "7bgrp_monitor_vii",
+    "hullMods": [
+        "frontemitter",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "7bgrp_monitor_vii_standard",
+    "weaponGroups": [],
+    "wings": ["broadsword_wing"]
+}

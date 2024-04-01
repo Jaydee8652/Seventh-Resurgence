@@ -1,0 +1,43 @@
+{
+    "displayName": "Seventh Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 7,
+    "goalVariant": true,
+    "hullId": "7bgrp_falcon_vii",
+    "hullMods": [
+        "eccm",
+        "hardened_subsystems",
+        "auxiliarythrusters"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "7bgrp_falcon_vii_standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "dragon",
+                "WS 006": "dragon",
+                "WS 007": "dragon",
+                "WS 008": "dragon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "breach",
+                "WS 002": "breach"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pdburst",
+                "WS 010": "pdburst"
+            }
+        }
+    ]
+}
